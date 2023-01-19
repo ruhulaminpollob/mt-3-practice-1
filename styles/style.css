@@ -24,8 +24,9 @@
     display: flex;
     justify-content: space-evenly;
     margin: 20px 0;
+
 }
 
-.link a img {
-    max-width: 20px;
+.link a {
+    color: gray;
 }
