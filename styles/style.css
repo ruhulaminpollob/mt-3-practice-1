@@ -35,6 +35,7 @@
     background-color: aqua;
 }
 
+/* grid-layout-bs */
 .container .row {
     height: 100vh;
 }
@@ -63,4 +64,13 @@
 
 .block-9 {
     background-color: burlywood;
+}
+
+
+/* bootstrap-flex */
+.d-flex>div {
+    max-width: 300px;
+    padding: 20px;
+
+
 }
