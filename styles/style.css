@@ -75,4 +75,29 @@
 
 }
 
-/* bootstrap form  */
+/* bootstrap log in  */
+.login input {
+    margin-bottom: 20px;
+
+}
+
+.forgot-link {
+    text-align: end;
+    text-decoration: none;
+    margin-bottom: 40px;
+}
+
+.login-btn {
+    border: 0;
+    width: 95%;
+    border-radius: 20px;
+    background: linear-gradient(45deg, tomato, skyblue);
+    margin-bottom: 40px;
+    padding: 10px 0;
+    font: bolder;
+    color: white;
+}
+
+.login-social a {
+    margin: 15px;
+}
